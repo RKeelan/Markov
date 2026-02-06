@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directory: "/Markov"
+    schedule:
+      interval: "daily"
+      time: "05:00"
